@@ -1,0 +1,8 @@
+type = "book"
+productID = "123"
+description = "sdasd"
+price = "45"
+year = "2009"
+authors = "asdasd"
+publisher = "sdasdas"
+
